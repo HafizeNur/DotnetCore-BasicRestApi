@@ -1,0 +1,14 @@
+C:\Users\krkmz\source\repos\DotNetCore.BasicRestApi\DotNetCore.BasicRestApi\bin\Debug\netcoreapp2.1\DotNetCore.BasicRestApi.deps.json
+C:\Users\krkmz\source\repos\DotNetCore.BasicRestApi\DotNetCore.BasicRestApi\bin\Debug\netcoreapp2.1\DotNetCore.BasicRestApi.runtimeconfig.json
+C:\Users\krkmz\source\repos\DotNetCore.BasicRestApi\DotNetCore.BasicRestApi\bin\Debug\netcoreapp2.1\DotNetCore.BasicRestApi.runtimeconfig.dev.json
+C:\Users\krkmz\source\repos\DotNetCore.BasicRestApi\DotNetCore.BasicRestApi\bin\Debug\netcoreapp2.1\DotNetCore.BasicRestApi.dll
+C:\Users\krkmz\source\repos\DotNetCore.BasicRestApi\DotNetCore.BasicRestApi\obj\Debug\netcoreapp2.1\DotNetCore.BasicRestApi.csprojAssemblyReference.cache
+C:\Users\krkmz\source\repos\DotNetCore.BasicRestApi\DotNetCore.BasicRestApi\obj\Debug\netcoreapp2.1\DotNetCore.BasicRestApi.csproj.CoreCompileInputs.cache
+C:\Users\krkmz\source\repos\DotNetCore.BasicRestApi\DotNetCore.BasicRestApi\obj\Debug\netcoreapp2.1\DotNetCore.BasicRestApi.RazorAssemblyInfo.cache
+C:\Users\krkmz\source\repos\DotNetCore.BasicRestApi\DotNetCore.BasicRestApi\obj\Debug\netcoreapp2.1\DotNetCore.BasicRestApi.RazorAssemblyInfo.cs
+C:\Users\krkmz\source\repos\DotNetCore.BasicRestApi\DotNetCore.BasicRestApi\obj\Debug\netcoreapp2.1\DotNetCore.BasicRestApi.AssemblyInfoInputs.cache
+C:\Users\krkmz\source\repos\DotNetCore.BasicRestApi\DotNetCore.BasicRestApi\obj\Debug\netcoreapp2.1\DotNetCore.BasicRestApi.AssemblyInfo.cs
+C:\Users\krkmz\source\repos\DotNetCore.BasicRestApi\DotNetCore.BasicRestApi\obj\Debug\netcoreapp2.1\DotNetCore.BasicRestApi.RazorTargetAssemblyInfo.cache
+C:\Users\krkmz\source\repos\DotNetCore.BasicRestApi\DotNetCore.BasicRestApi\bin\Debug\netcoreapp2.1\DotNetCore.BasicRestApi.pdb
+C:\Users\krkmz\source\repos\DotNetCore.BasicRestApi\DotNetCore.BasicRestApi\obj\Debug\netcoreapp2.1\DotNetCore.BasicRestApi.dll
+C:\Users\krkmz\source\repos\DotNetCore.BasicRestApi\DotNetCore.BasicRestApi\obj\Debug\netcoreapp2.1\DotNetCore.BasicRestApi.pdb
